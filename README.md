@@ -1,4 +1,4 @@
-# Wild Rydes Sample Project
+# Mythical Rides Project
 
 ![Wild Rydes Logo](wildrydes-logo.png)
 
